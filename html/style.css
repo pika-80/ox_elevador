@@ -1,0 +1,51 @@
+body {
+    margin: 0;
+    font-family: Arial;
+    overflow: hidden;
+}
+
+#panel {
+    position: absolute;
+    left: 5%;
+    top: 15%;
+
+    width: 350px;
+
+    background: rgba(20,20,30,0.85);
+
+    border-radius: 20px;
+
+    padding: 25px;
+
+    color: white;
+
+    border: 2px solid #ff4fd8;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 5px;
+}
+
+p {
+    text-align: center;
+    opacity: 0.7;
+}
+
+.floor {
+    background: rgba(255,255,255,0.05);
+
+    padding: 18px;
+
+    margin-top: 15px;
+
+    border-radius: 12px;
+
+    cursor: pointer;
+
+    transition: 0.2s;
+}
+
+.floor:hover {
+    background: rgba(255, 79, 216, 0.3);
+}
