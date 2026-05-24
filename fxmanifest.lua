@@ -4,7 +4,7 @@ game 'gta5'
 author 'pika80'
 description 'Script de Elevador Multi-Prédio com OxTarget e NUI'
 version '1.0.0'
-discord 'https://discord.gg/yourdiscordlink'
+discord 'https://discord.gg/JZhmwRCkpW'
 
 lua54 'yes'
 
